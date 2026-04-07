@@ -1,0 +1,8 @@
+{
+	"appId": "com.photonest.app",
+	"appName": "PhotoNest",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	}
+}
